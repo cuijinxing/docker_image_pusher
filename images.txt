@@ -1,2 +1,2 @@
-nodered/node-red
+moelin/1panel
 
