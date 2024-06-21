@@ -1,2 +1,2 @@
-moelin/1panel
+mysql:8.2.0
 
