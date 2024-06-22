@@ -1,1 +1,1 @@
-justsong/one-api:v0.6.6
+1panel/maxkb:v1.2.1
