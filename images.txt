@@ -1,1 +1,17 @@
+moelin/1panel:latest
+1panel/maxkb:v1.2.1
+nodered/node-red:latest
+justsong/one-api:v0.6.6
 yidadaa/chatgpt-next-web:v2.12.3
+homeassistant/home-assistant:latest
+linuxserver/syncthing:latest
+jeessy/ddns-go:latest
+linuxserver/jackett:latest
+linuxserver/duplicati:2.0.7
+linuxserver/heimdall:latest
+xhofe/alist:latest
+portainer/portainer-ce:latest
+linuxserver/qbittorrent:4.5.2
+cnk3x/xunlei:3.7.1
+johngong/baidunetdisk:latest
+jellyfin/jellyfin:10.8.9
