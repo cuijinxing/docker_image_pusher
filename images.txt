@@ -1,1 +1,1 @@
-kasmweb/desktop:1.14.0
+kasmweb/desktop-deluxe:1.14.0
