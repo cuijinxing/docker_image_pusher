@@ -1,1 +1,1 @@
-kasmweb/desktop-deluxe:1.14.0
+wukongdaily/box:latest
