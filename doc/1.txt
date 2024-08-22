@@ -16,3 +16,4 @@ cnk3x/xunlei:3.7.1
 johngong/baidunetdisk:latest
 jellyfin/jellyfin:10.8.9
 frooodle/s-pdf:0.26.1
+wukongdaily/box:latest
