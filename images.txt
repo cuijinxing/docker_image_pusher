@@ -1,2 +1,2 @@
-portainer/portainer-ce:2.21.4
+linuxserver/firefox:latest
 
