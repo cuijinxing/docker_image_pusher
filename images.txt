@@ -1,1 +1,1 @@
-linuxserver/duplicati:2.0.8
+linuxserver/jackett:latest
