@@ -18,3 +18,4 @@ jellyfin/jellyfin:10.8.9
 frooodle/s-pdf:0.26.1
 wukongdaily/box:latest
 portainer/portainer-ce:2.21.4
+linuxserver/chromium:latest
