@@ -1,2 +1,1 @@
-linuxserver/duplicati:2.0.8.1_beta
-
+linuxserver/duplicati:2.0.8
