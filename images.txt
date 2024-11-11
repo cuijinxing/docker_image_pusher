@@ -1,2 +1,2 @@
-linuxserver/duplicati:2.0.8.1_beta_2024-05-07
+linuxserver/duplicati:2.0.8.1_beta
 
