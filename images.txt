@@ -1,2 +1,2 @@
-linuxserver/chromium:latest
+linuxserver/duplicati:2.0.8.1
 
