@@ -15,6 +15,7 @@ linuxserver/qbittorrent:4.5.2
 cnk3x/xunlei:3.7.1
 johngong/baidunetdisk:latest
 jellyfin/jellyfin:10.8.9
+nyanmisaka/jellyfin
 frooodle/s-pdf:0.26.1
 wukongdaily/box:latest
 portainer/portainer-ce:2.21.4
