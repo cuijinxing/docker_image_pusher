@@ -1,1 +1,1 @@
-cnk3x/xunlei:3.7.1
+cnk3x/xunlei:3.21.0
