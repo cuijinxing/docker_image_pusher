@@ -1,1 +1,2 @@
-library/mariadb:latest
+linuxserver/mariadb:latest
+adminer:latest
