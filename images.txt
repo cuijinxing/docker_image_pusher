@@ -1,2 +1,3 @@
-linuxserver/mariadb:latest
-adminer:latest
+photoprism/photoprism:latest
+mariadb:11
+containrrr/watchtower
