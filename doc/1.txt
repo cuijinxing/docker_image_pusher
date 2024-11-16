@@ -22,3 +22,6 @@ portainer/portainer-ce:2.21.4
 linuxserver/chromium:latest
 photoprism/photoprism
 library/mariadb:latest
+photoprism/photoprism:latest
+mariadb:11
+containrrr/watchtower
