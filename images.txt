@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:latest
+ghcr.io/home-assistant/home-assistant:stable
