@@ -1,1 +1,1 @@
-tiptime/ttnode
+codyguo/tc-docker:latest
