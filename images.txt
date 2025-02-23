@@ -1,1 +1,1 @@
-codyguo/tc-docker:latest
+ollama/ollama
