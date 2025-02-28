@@ -1,1 +1,1 @@
-linuxserver/ubuntu
+ubuntu
