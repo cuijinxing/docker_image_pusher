@@ -1,1 +1,1 @@
-lobehub/lobe-chat
+linuxserver/ubuntu
