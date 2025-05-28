@@ -1,2 +1,1 @@
-linuxserver/emulatorjs:latest
-dockurr/windows
+adguard/adguardhome
