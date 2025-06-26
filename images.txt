@@ -16,15 +16,6 @@ containrrr/watchtower:latest
 wukongdaily/box:latest
 xhofe/alist:latest
 nyanmisaka/jellyfin:latest
-jellyfin/jellyfin:10.8.9
-
-1panel/maxkb:v1.2.1
-justsong/one-api:v0.6.6
-yidadaa/chatgpt-next-web:v2.12.3
-linuxserver/duplicati:2.0.7
-linuxserver/qbittorrent:4.5.2
-cnk3x/xunlei:3.7.1
-frooodle/s-pdf:0.26.1
 
 
 
