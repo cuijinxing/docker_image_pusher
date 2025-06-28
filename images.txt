@@ -1,3 +1,4 @@
+linuxserver/qbittorrent:latest
 linuxserver/syncthing:latest
 adguard/adguardhome:latest
 whyour/qinglong:latest
