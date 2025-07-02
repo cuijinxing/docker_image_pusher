@@ -1,3 +1,4 @@
+linuxserver/duplicati:latest
 linuxserver/qbittorrent:latest
 linuxserver/syncthing:latest
 adguard/adguardhome:latest
