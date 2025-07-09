@@ -1,3 +1,4 @@
+jellyfin/jellyfin:unstable
 linuxserver/duplicati:latest
 linuxserver/qbittorrent:latest
 linuxserver/syncthing:latest
