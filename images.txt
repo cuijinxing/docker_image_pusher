@@ -1,4 +1,4 @@
-lunatechlab/moontv:latest
+7x24/moontv:latest
 
 
 
