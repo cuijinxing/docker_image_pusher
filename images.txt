@@ -1,2 +1,2 @@
-allanpk716/chinesesubfinder:latest
+allanpk716/chinesesubfinder:latest-lite
 
