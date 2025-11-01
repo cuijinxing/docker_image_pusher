@@ -1,2 +1,2 @@
-nocodb/nocodb:latest
+mariadb:10.11.8
 
