@@ -1,4 +1,1 @@
-postgres:16-alpine
-redis:7-alpine
-msmkls/daoliyu-backend:0.1.9
-msmkls/daoliyu-frontend:0.1.9
+cnk3x/xunlei
