@@ -1,3 +1,2 @@
-coolsnowwolf/qwrt
-
+coolsnowwolf/qwrt:amd64-latest
 
