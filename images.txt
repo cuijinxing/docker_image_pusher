@@ -1,2 +1,1 @@
-coolsnowwolf/qwrt:amd64-latest
-
+ollama/ollama:latest 
