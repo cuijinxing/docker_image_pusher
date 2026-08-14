@@ -1,1 +1,1 @@
-lscr.io/linuxserver/duplicati:v2.3.0.1_stable_2026-04-24-ls292
+lscr.io/linuxserver/duplicati:latest
